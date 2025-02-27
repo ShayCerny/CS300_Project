@@ -1,0 +1,10 @@
+CSCI101,Introduction to Computer Science,,
+CSCI102,Data Structures,,
+CSCI103,Algorithms,CSCI102,
+CSCI104,Discrete Mathematics,CSCI101,
+CSCI201,Operating Systems,CSCI103,
+CSCI202,Computer Networks,CSCI201,
+CSCI301,Database Systems,CSCI102,CSCI103
+CSCI302,Artificial Intelligence,CSCI201,CSCI202
+CSCI303,Software Engineering,CSCI301,CSCI302
+CSCI401,Computer Security,CSCI201,
